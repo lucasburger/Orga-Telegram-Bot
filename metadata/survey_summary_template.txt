@@ -1,0 +1,5 @@
+Zusammenfassung zu folgender Umfrage: 
+
+{details}
+
+*Unbeantwortet*: {unanswered}

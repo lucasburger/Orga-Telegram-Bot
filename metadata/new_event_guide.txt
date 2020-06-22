@@ -1,0 +1,8 @@
+Folgende Daten kannst du eingeben:
+- Kurze Beschreibung
+- (Optional) Ausführliche Beschreibung
+- Startzeitpunkt
+- Ende
+- Ort
+- Treffpunkt
+- Outfit

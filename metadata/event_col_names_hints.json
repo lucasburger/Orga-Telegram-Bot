@@ -1,0 +1,4 @@
+{
+    "start_time": "Bitte gib den Startzeitpunkt im Format TT.MM.JJ HH:MM ein:",
+    "end_time": "Bitte gib den Endzeitpunkt entweder als TT.MM.JJ HH:MM ein, falls das Ende an einem anderen Tag ist, sonst nur HH:MM falls es am gleichen Tag ist, oder gib '0' ein, um ein OpenEnd zu haben."
+}

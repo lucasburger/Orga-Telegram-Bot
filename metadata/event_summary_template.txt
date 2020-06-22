@@ -1,0 +1,8 @@
+Zusammenfassung zu folgendem Termin:
+{Beschreibung}
+
+Zusagen: {Zusagen}
+Absagen: {Absagen}
+Ausstehend: {Ausstehend}
+
+Instrumente: (Zusage/Absage/Ausstehend)

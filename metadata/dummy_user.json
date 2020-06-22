@@ -1,0 +1,9 @@
+{
+    "first_name": "Max",
+    "last_name": "Mustermann",
+    "username": "MaxMustermann",
+    "instrument": "Marschtrommel",
+    "user_id": "1234567",
+    "is_admin": 0,
+    "is_master": 0
+}

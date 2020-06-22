@@ -1,0 +1,19 @@
+Hallo {name},
+
+Folgende Daten sind von dir gespeichert:
+
+*Persönliche Daten*:
+{personaldata}
+
+Die folgenden Daten zu Terminen und Umfragen sind nur im Zusammenhang mit deiner User-ID (von Telegram) gespeichert. Sie sind also nur indirekt mit deinem Namen in Verbindung zu bringen.
+
+*Terminzusagen*:
+{events}
+
+*Umfrageantworten*:
+{surveys}
+
+Bei allgemeinen Fragen, falls Daten falsch sind oder falls du Daten von dir löschen möchtest, kannst du dich jederzeit bei mir (@LucasBurger) melden.
+
+Lieben Gruß
+Lucas

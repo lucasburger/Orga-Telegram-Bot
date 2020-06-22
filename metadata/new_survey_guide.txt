@@ -1,0 +1,4 @@
+Folgendes wird nacheinander abgefragt werden:
+- Kurze Beschreibung
+- Die Frage
+- Antwortmöglichkeiten
